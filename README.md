@@ -39,7 +39,7 @@ Sistema de automações desenvolvido para simplificar
 processos administrativos, organizar informações e
 integrar diferentes ferramentas em uma interface local.
 
-[Conhecer o projeto](https://github.com/dudup2626/Central-Ecobrooks)
+[Conhecer o projeto](desenvolvimento)
 
 ## Áreas de interesse
 
