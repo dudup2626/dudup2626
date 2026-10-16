@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Eduardo Pereira
+# Eduardo Pereira Xavier
 
 ### Software Development | Automation | Information Systems
 
