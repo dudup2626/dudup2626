@@ -13,12 +13,12 @@ organizar informações e simplificar tarefas.
 ### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-174C80?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-174C80?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-174C80?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-174C80?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-174C80?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-174C80?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-174C80?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-174C80?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
 
